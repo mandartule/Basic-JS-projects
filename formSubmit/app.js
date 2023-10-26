@@ -7,4 +7,5 @@ form.addEventListener('submit',function(e){
     let li = document.createElement('LI');
     li.innerText = input.value;
     ul.appendChild(li);
+    input.value = "";
 })
