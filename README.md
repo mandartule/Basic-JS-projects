@@ -4,7 +4,7 @@ Welcome to the repository of my mini projects! This collection includes a variet
 
 ## Check live here 🚀
 
-Check out the live demo of the Score Keeper app: [Score Keeper Live Demo](https://mandartule.github.io/Basic-JS-projects/)
+Check out the live demo of the Score Keeper app: [MINI Projects](https://mandartule.github.io/Basic-JS-projects/)
 
 ## Table of Contents
 1. [Basic](#basic)
